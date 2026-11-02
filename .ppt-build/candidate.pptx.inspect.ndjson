@@ -1,0 +1,162 @@
+{"kind":"deck","id":"pr/utfv9z","name":"Deck"}
+{"kind":"layout","layoutId":"be15ce8a-d300-4d1e-a559-a8943a5c824a","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"d7f5911f-a0a6-489b-adda-08358e49d4e4","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/v1mdfu","slide":1,"title":"BusXTrack","textShapes":5}
+{"kind":"textbox","id":"sh/pob214f2","slide":1,"text":"BusXTrack","textPreview":"BusXTrack","textChars":9,"textLines":1,"bbox":[70,170,1140,92]}
+{"kind":"textbox","id":"sh/2lkjq9wr","slide":1,"text":"Smart College Bus Tracking and ETA System","textPreview":"Smart College Bus Tracking and ETA System","textChars":41,"textLines":1,"bbox":[120,275,1040,50]}
+{"kind":"textbox","id":"sh/3mtkzexc","slide":1,"text":"Project-Based Evaluation | Java Swing + MySQL","textPreview":"Project-Based Evaluation | Java Swing + MySQL","textChars":45,"textLines":1,"bbox":[120,365,1040,32]}
+{"kind":"textbox","id":"sh/crmlwjet","slide":1,"text":"Schedule-based ETA simulation","textPreview":"Schedule-based ETA simulation","textChars":29,"textLines":1,"bbox":[390,475,500,74]}
+{"kind":"textbox","id":"sh/dsv25ofe","slide":1,"text":"Mid-Term I Presentation","textPreview":"Mid-Term I Presentation","textChars":23,"textLines":1,"bbox":[120,620,1040,28]}
+{"kind":"notes","id":"nt/v1mdfu","slide":1,"text":"BusXTrack is a local Java Swing and MySQL prototype. It does not use GPS or external APIs."}
+{"kind":"slide","id":"sl/za176y","slide":2,"title":"BUSXTRACK","textShapes":12}
+{"kind":"textbox","id":"sh/y9kjudgb","slide":2,"text":"BUSXTRACK","textPreview":"BUSXTRACK","textChars":9,"textLines":1,"bbox":[70,32,400,26]}
+{"kind":"textbox","id":"sh/lcvipsf2","slide":2,"text":"The problem and the project objective","textPreview":"The problem and the project objective","textChars":37,"textLines":1,"bbox":[70,64,1140,58]}
+{"kind":"shape","id":"sh/kbm1wnyh","slide":2,"bbox":[70,132,1140,1]}
+{"kind":"textbox","id":"sh/bmt0jyx0","slide":2,"text":"Students need quick answers to simple transport questions:","textPreview":"Students need quick answers to simple transport questions:","textChars":58,"textLines":1,"bbox":[80,175,560,42]}
+{"kind":"textbox","id":"sh/alkzqdgf","slide":2,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[90,245,22,34]}
+{"kind":"textbox","id":"sh/x8bil8fq","slide":2,"text":"Which bus serves my stop?","textPreview":"Which bus serves my stop?","textChars":25,"textLines":1,"bbox":[122,245,498,40]}
+{"kind":"textbox","id":"sh/wn2hs3y5","slide":2,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[90,305,22,34]}
+{"kind":"textbox","id":"sh/ni90fyxo","slide":2,"text":"When is the next scheduled arrival?","textPreview":"When is the next scheduled arrival?","textChars":35,"textLines":1,"bbox":[122,305,498,40]}
+{"kind":"textbox","id":"sh/mh0zmtg3","slide":2,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[90,365,22,34]}
+{"kind":"textbox","id":"sh/0b21s3q9","slide":2,"text":"Which route and driver are assigned?","textPreview":"Which route and driver are assigned?","textChars":36,"textLines":1,"bbox":[122,365,498,40]}
+{"kind":"textbox","id":"sh/1wbil87u","slide":2,"text":"BusXTrack","textPreview":"BusXTrack","textChars":9,"textLines":1,"bbox":[770,245,250,90]}
+{"kind":"shape","id":"sh/e9kjqt8j","slide":2,"bbox":[640,290,130,1]}
+{"kind":"textbox","id":"sh/fat0jypo","slide":2,"text":"A small desktop system that keeps transport data in one place and shows a transparent timetable-based ETA.","textPreview":"A small desktop system that keeps transport data in one place and shows a transparent timetable-based ETA.","textChars":106,"textLines":1,"bbox":[690,390,410,110]}
+{"kind":"textbox","id":"sh/s721ojqd","slide":2,"text":"BusXTrack | Mid-Term I | 2","textPreview":"BusXTrack | Mid-Term I | 2","textChars":26,"textLines":1,"bbox":[70,682,500,20]}
+{"kind":"notes","id":"nt/za176y","slide":2,"text":""}
+{"kind":"slide","id":"sl/7p5t9q","slide":3,"title":"BUSXTRACK","textShapes":9}
+{"kind":"textbox","id":"sh/m9sfitg3","slide":3,"text":"BUSXTRACK","textPreview":"BUSXTRACK","textChars":9,"textLines":1,"bbox":[70,32,400,26]}
+{"kind":"textbox","id":"sh/9cjetoze","slide":3,"text":"Two users, one shared database","textPreview":"Two users, one shared database","textChars":30,"textLines":1,"bbox":[70,64,1140,58]}
+{"kind":"shape","id":"sh/8baxkjy9","slide":3,"bbox":[70,132,1140,1]}
+{"kind":"textbox","id":"sh/zmhwnehc","slide":3,"text":"STUDENT","textPreview":"STUDENT","textChars":7,"textLines":1,"bbox":[100,220,230,80]}
+{"kind":"textbox","id":"sh/yl8fe9gr","slide":3,"text":"ADMIN","textPreview":"ADMIN","textChars":5,"textLines":1,"bbox":[100,470,230,80]}
+{"kind":"textbox","id":"sh/lozepozi","slide":3,"text":"Swing GUI","textPreview":"Swing GUI","textChars":9,"textLines":1,"bbox":[520,340,220,80]}
+{"kind":"textbox","id":"sh/knqxgjyx","slide":3,"text":"MySQL\nbusxtrack","textPreview":"MySQL | busxtrack","textChars":15,"textLines":2,"bbox":[940,340,220,80]}
+{"kind":"shape","id":"sh/jilgzihw","slide":3,"bbox":[330,260,190,115]}
+{"kind":"shape","id":"sh/ihcfqdgb","slide":3,"bbox":[330,510,190,1]}
+{"kind":"shape","id":"sh/cz61kje9","slide":3,"bbox":[740,380,200,1]}
+{"kind":"textbox","id":"sh/x0f2dofu","slide":3,"text":"Search bus or stop\nView route, driver, ETA","textPreview":"Search bus or stop | View route, driver, ETA","textChars":42,"textLines":2,"bbox":[370,190,320,92]}
+{"kind":"textbox","id":"sh/axojitw3","slide":3,"text":"Manage buses, drivers,\nroutes, stops and timetable","textPreview":"Manage buses, drivers, | routes, stops and timetable","textChars":50,"textLines":2,"bbox":[360,525,350,82]}
+{"kind":"textbox","id":"sh/byxkbyxo","slide":3,"text":"BusXTrack | Mid-Term I | 3","textPreview":"BusXTrack | Mid-Term I | 3","textChars":26,"textLines":1,"bbox":[70,682,500,20]}
+{"kind":"notes","id":"nt/7p5t9q","slide":3,"text":""}
+{"kind":"slide","id":"sl/8fk4qa","slide":4,"title":"BUSXTRACK","textShapes":8}
+{"kind":"textbox","id":"sh/fmpgvapc","slide":4,"text":"BUSXTRACK","textPreview":"BUSXTRACK","textChars":9,"textLines":1,"bbox":[70,32,400,26]}
+{"kind":"textbox","id":"sh/gnyh4f6x","slide":4,"text":"Simple architecture that matches the code","textPreview":"Simple architecture that matches the code","textChars":41,"textLines":1,"bbox":[70,64,1140,58]}
+{"kind":"shape","id":"sh/ho7yxk7i","slide":4,"bbox":[70,132,1140,1]}
+{"kind":"textbox","id":"sh/2pgz6po3","slide":4,"text":"Swing frames\nLogin + dashboards","textPreview":"Swing frames | Login + dashboards","textChars":31,"textLines":2,"bbox":[90,260,250,100]}
+{"kind":"textbox","id":"sh/3q9gzupo","slide":4,"text":"DAO classes\nJDBC queries","textPreview":"DAO classes | JDBC queries","textChars":24,"textLines":2,"bbox":[515,260,250,100]}
+{"kind":"textbox","id":"sh/4rih8z6t","slide":4,"text":"MySQL tables\n6 related entities","textPreview":"MySQL tables | 6 related entities","textChars":31,"textLines":2,"bbox":[940,260,250,100]}
+{"kind":"shape","id":"sh/psry147e","slide":4,"bbox":[340,310,175,1]}
+{"kind":"shape","id":"sh/itwful8j","slide":4,"bbox":[765,310,175,1]}
+{"kind":"textbox","id":"sh/ju5gnqp4","slide":4,"text":"ETAService\nLocalTime + schedule math","textPreview":"ETAService | LocalTime + schedule math","textChars":36,"textLines":2,"bbox":[515,500,250,90]}
+{"kind":"shape","id":"sh/vupozytc","slide":4,"bbox":[640,360,1,140]}
+{"kind":"textbox","id":"sh/u9g76ts7","slide":4,"text":"Model classes such as Bus, Driver, Route, Stop and Timetable carry the data between layers.","textPreview":"Model classes such as Bus, Driver, Route, Stop and Timetable carry the data between layers.","textChars":91,"textLines":1,"bbox":[180,610,920,38]}
+{"kind":"textbox","id":"sh/hwr618ri","slide":4,"text":"BusXTrack | Mid-Term I | 4","textPreview":"BusXTrack | Mid-Term I | 4","textChars":26,"textLines":1,"bbox":[70,682,500,20]}
+{"kind":"notes","id":"nt/8fk4qa","slide":4,"text":""}
+{"kind":"slide","id":"sl/7a8l3b","slide":5,"title":"BUSXTRACK","textShapes":10}
+{"kind":"textbox","id":"sh/54fahobq","slide":5,"text":"BUSXTRACK","textPreview":"BUSXTRACK","textChars":9,"textLines":1,"bbox":[70,32,400,26]}
+{"kind":"textbox","id":"sh/i14bm9sz","slide":5,"text":"How the simulated ETA is calculated","textPreview":"How the simulated ETA is calculated","textChars":35,"textLines":1,"bbox":[70,64,1140,58]}
+{"kind":"shape","id":"sh/32dsfetk","slide":5,"bbox":[70,132,1140,1]}
+{"kind":"textbox","id":"sh/gzmtkzat","slide":5,"text":"Current system time\nJava LocalTime.now()","textPreview":"Current system time | Java LocalTime.now()","textChars":40,"textLines":2,"bbox":[80,230,250,110]}
+{"kind":"textbox","id":"sh/h0vad4be","slide":5,"text":"Departure time\nfrom timetable","textPreview":"Departure time | from timetable","textChars":29,"textLines":2,"bbox":[385,230,250,110]}
+{"kind":"textbox","id":"sh/ud4rips3","slide":5,"text":"Stop minutes\nfrom route","textPreview":"Stop minutes | from route","textChars":23,"textLines":2,"bbox":[690,230,250,110]}
+{"kind":"textbox","id":"sh/vedsbut8","slide":5,"text":"ETA and status\nshown in table","textPreview":"ETA and status | shown in table","textChars":29,"textLines":2,"bbox":[995,230,205,110]}
+{"kind":"shape","id":"sh/0vqtw3ad","slide":5,"bbox":[330,285,55,1]}
+{"kind":"shape","id":"sh/1wzup8by","slide":5,"bbox":[635,285,55,1]}
+{"kind":"shape","id":"sh/x8vedk7m","slide":5,"bbox":[940,285,55,1]}
+{"kind":"textbox","id":"sh/w72d4f61","slide":5,"text":"Example","textPreview":"Example","textChars":7,"textLines":1,"bbox":[90,440,140,34]}
+{"kind":"textbox","id":"sh/b6twbapg","slide":5,"text":"Departure 08:00 + Market Road 15 min = expected arrival 08:15","textPreview":"Departure 08:00 + Market Road 15 min = expected arrival 08:15","textChars":61,"textLines":1,"bbox":[90,480,1060,38]}
+{"kind":"textbox","id":"sh/a5kv25ob","slide":5,"text":"If the computer time is 08:10, the interface shows approximately 5 minutes remaining. The student does not enter the current time.","textPreview":"If the computer time is 08:10, the interface shows approximately 5 minutes remaining. The student does not enter the current time.","textChars":130,"textLines":1,"bbox":[90,540,1050,68]}
+{"kind":"textbox","id":"sh/94be907q","slide":5,"text":"BusXTrack | Mid-Term I | 5","textPreview":"BusXTrack | Mid-Term I | 5","textChars":26,"textLines":1,"bbox":[70,682,500,20]}
+{"kind":"notes","id":"nt/7a8l3b","slide":5,"text":""}
+{"kind":"slide","id":"sl/guwif3","slide":6,"title":"BUSXTRACK","textShapes":10}
+{"kind":"textbox","id":"sh/j25076l0","slide":6,"text":"BUSXTRACK","textPreview":"BUSXTRACK","textChars":9,"textLines":1,"bbox":[70,32,400,26]}
+{"kind":"textbox","id":"sh/k3e1gb2l","slide":6,"text":"Java Swing GUI prototype workflow","textPreview":"Java Swing GUI prototype workflow","textChars":33,"textLines":1,"bbox":[70,64,1140,58]}
+{"kind":"shape","id":"sh/54ni9g36","slide":6,"bbox":[70,132,1140,1]}
+{"kind":"textbox","id":"sh/65wjilkr","slide":6,"text":"Login","textPreview":"Login","textChars":5,"textLines":1,"bbox":[60,260,190,82]}
+{"kind":"shape","id":"sh/7650b6lc","slide":6,"bbox":[250,301,50,1]}
+{"kind":"textbox","id":"sh/s7e1kb2h","slide":6,"text":"Student Home","textPreview":"Student Home","textChars":12,"textLines":1,"bbox":[300,260,190,82]}
+{"kind":"shape","id":"sh/t87idg32","slide":6,"bbox":[490,301,50,1]}
+{"kind":"textbox","id":"sh/e9gjmlkn","slide":6,"text":"Search Bus\nor Stop","textPreview":"Search Bus | or Stop","textChars":18,"textLines":2,"bbox":[540,260,190,82]}
+{"kind":"shape","id":"sh/fap0fql8","slide":6,"bbox":[730,301,50,1]}
+{"kind":"textbox","id":"sh/76hsnyp8","slide":6,"text":"Result Table","textPreview":"Result Table","textChars":12,"textLines":1,"bbox":[780,260,190,82]}
+{"kind":"shape","id":"sh/m58bed8n","slide":6,"bbox":[970,301,50,1]}
+{"kind":"textbox","id":"sh/98zap87e","slide":6,"text":"Route / Driver\nDetails","textPreview":"Route / Driver | Details","textChars":22,"textLines":2,"bbox":[1020,260,190,82]}
+{"kind":"textbox","id":"sh/87qtg3qt","slide":6,"text":"Controls demonstrated: text fields, password field, buttons, combo boxes, tables, message dialogs and validation.","textPreview":"Controls demonstrated: text fields, password field, buttons, combo boxes, tables, message dialogs and validation.","textChars":113,"textLines":1,"bbox":[120,470,1040,56]}
+{"kind":"textbox","id":"sh/z2xsjy9c","slide":6,"text":"Admin follows Login -> Dashboard -> CRUD form -> database table. Student follows Continue as Student -> search -> result.","textPreview":"Admin follows Login -> Dashboard -> CRUD form -> database table. Student follows Continue as Student -> search -> result.","textChars":121,"textLines":1,"bbox":[120,555,1040,54]}
+{"kind":"textbox","id":"sh/yhorat8r","slide":6,"text":"BusXTrack | Mid-Term I | 6","textPreview":"BusXTrack | Mid-Term I | 6","textChars":26,"textLines":1,"bbox":[70,682,500,20]}
+{"kind":"notes","id":"nt/guwif3","slide":6,"text":""}
+{"kind":"slide","id":"sl/aipwiw","slide":7,"title":"BUSXTRACK","textShapes":10}
+{"kind":"textbox","id":"sh/ji9wfixw","slide":7,"text":"BUSXTRACK","textPreview":"BUSXTRACK","textChars":9,"textLines":1,"bbox":[70,32,400,26]}
+{"kind":"textbox","id":"sh/kjixoneh","slide":7,"text":"MySQL design: normalized and connected","textPreview":"MySQL design: normalized and connected","textChars":38,"textLines":1,"bbox":[70,64,1140,58]}
+{"kind":"shape","id":"sh/5krehsf2","slide":7,"bbox":[70,132,1140,1]}
+{"kind":"textbox","id":"sh/6lkfqxwn","slide":7,"text":"admins","textPreview":"admins","textChars":6,"textLines":1,"bbox":[80,215,180,70]}
+{"kind":"textbox","id":"sh/7mtgj2x8","slide":7,"text":"drivers","textPreview":"drivers","textChars":7,"textLines":1,"bbox":[80,500,180,70]}
+{"kind":"textbox","id":"sh/sn2xs7et","slide":7,"text":"routes","textPreview":"routes","textChars":6,"textLines":1,"bbox":[410,215,180,70]}
+{"kind":"textbox","id":"sh/tobylsfy","slide":7,"text":"stops","textPreview":"stops","textChars":5,"textLines":1,"bbox":[740,215,180,70]}
+{"kind":"textbox","id":"sh/mpgfetw3","slide":7,"text":"buses","textPreview":"buses","textChars":5,"textLines":1,"bbox":[410,500,180,70]}
+{"kind":"textbox","id":"sh/nqpw7yxo","slide":7,"text":"timetable","textPreview":"timetable","textChars":9,"textLines":1,"bbox":[740,500,180,70]}
+{"kind":"shape","id":"sh/7u58z6pw","slide":7,"bbox":[590,250,150,1]}
+{"kind":"shape","id":"sh/69wrq1or","slide":7,"bbox":[500,285,1,215]}
+{"kind":"shape","id":"sh/twna1g72","slide":7,"bbox":[260,535,150,1]}
+{"kind":"shape","id":"sh/8ve9sb6h","slide":7,"bbox":[590,535,150,1]}
+{"kind":"shape","id":"sh/j658v6p0","slide":7,"bbox":[500,285,1,215]}
+{"kind":"textbox","id":"sh/y5wrm1of","slide":7,"text":"Primary keys identify rows. Foreign keys connect route, stop, bus, driver and timetable records.","textPreview":"Primary keys identify rows. Foreign keys connect route, stop, bus, driver and timetable records.","textChars":96,"textLines":1,"bbox":[970,235,240,260]}
+{"kind":"textbox","id":"sh/l8nqxw76","slide":7,"text":"BusXTrack | Mid-Term I | 7","textPreview":"BusXTrack | Mid-Term I | 7","textChars":26,"textLines":1,"bbox":[70,682,500,20]}
+{"kind":"notes","id":"nt/aipwiw","slide":7,"text":""}
+{"kind":"slide","id":"sl/6klzhk","slide":8,"title":"BUSXTRACK","textShapes":22}
+{"kind":"textbox","id":"sh/mdsrmh07","slide":8,"text":"BUSXTRACK","textPreview":"BUSXTRACK","textChars":9,"textLines":1,"bbox":[70,32,400,26]}
+{"kind":"textbox","id":"sh/9g3axczy","slide":8,"text":"Database rules and sample queries","textPreview":"Database rules and sample queries","textChars":33,"textLines":1,"bbox":[70,64,1140,58]}
+{"kind":"shape","id":"sh/8fu9o7id","slide":8,"bbox":[70,132,1140,1]}
+{"kind":"textbox","id":"sh/za1sr2hw","slide":8,"text":"Constraints","textPreview":"Constraints","textChars":11,"textLines":1,"bbox":[90,190,430,34]}
+{"kind":"textbox","id":"sh/y9srix0b","slide":8,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[100,245,22,34]}
+{"kind":"textbox","id":"sh/lcjatczm","slide":8,"text":"PRIMARY KEY for each entity","textPreview":"PRIMARY KEY for each entity","textChars":27,"textLines":1,"bbox":[132,245,438,40]}
+{"kind":"textbox","id":"sh/0ba9k7ih","slide":8,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[100,293,22,34]}
+{"kind":"textbox","id":"sh/bmh8ni1k","slide":8,"text":"FOREIGN KEY for relationships","textPreview":"FOREIGN KEY for relationships","textChars":29,"textLines":1,"bbox":[132,293,438,40]}
+{"kind":"textbox","id":"sh/ql8rex0z","slide":8,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[100,341,22,34]}
+{"kind":"textbox","id":"sh/4bmp4f65","slide":8,"text":"NOT NULL for required values","textPreview":"NOT NULL for required values","textChars":28,"textLines":1,"bbox":[132,341,438,40]}
+{"kind":"textbox","id":"sh/5cvqx07q","slide":8,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[100,389,22,34]}
+{"kind":"textbox","id":"sh/ip4725oz","slide":8,"text":"UNIQUE bus number and username","textPreview":"UNIQUE bus number and username","textChars":30,"textLines":1,"bbox":[132,389,438,40]}
+{"kind":"textbox","id":"sh/jadovapk","slide":8,"text":"Queries used by the prototype","textPreview":"Queries used by the prototype","textChars":29,"textLines":1,"bbox":[690,190,470,34]}
+{"kind":"textbox","id":"sh/wn2p0v6t","slide":8,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[700,245,22,34]}
+{"kind":"textbox","id":"sh/hob6t07e","slide":8,"text":"Find bus by bus_number","textPreview":"Find bus by bus_number","textChars":22,"textLines":1,"bbox":[732,245,438,40]}
+{"kind":"textbox","id":"sh/ulk7ylo3","slide":8,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[700,293,22,34]}
+{"kind":"textbox","id":"sh/vmtorqp8","slide":8,"text":"List stops by route_id","textPreview":"List stops by route_id","textChars":22,"textLines":1,"bbox":[732,293,438,40]}
+{"kind":"textbox","id":"sh/gj6pcz6d","slide":8,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[700,341,22,34]}
+{"kind":"textbox","id":"sh/1kfq5kny","slide":8,"text":"Find buses for a stop","textPreview":"Find buses for a stop","textChars":21,"textLines":1,"bbox":[732,341,438,40]}
+{"kind":"textbox","id":"sh/90b6pkf2","slide":8,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[700,389,22,34]}
+{"kind":"textbox","id":"sh/oz2pwfyh","slide":8,"text":"Load timetable and driver details","textPreview":"Load timetable and driver details","textChars":33,"textLines":1,"bbox":[732,389,438,40]}
+{"kind":"textbox","id":"sh/nytonaxw","slide":8,"text":"The tables are separated so driver and route details are not repeated in every bus row. That is the basic 3NF idea used in the design.","textPreview":"The tables are separated so driver and route details are not repeated in every bus row. That is the basic 3NF idea used in the design.","textChars":134,"textLines":1,"bbox":[130,560,1020,52]}
+{"kind":"textbox","id":"sh/2xk7upgb","slide":8,"text":"BusXTrack | Mid-Term I | 8","textPreview":"BusXTrack | Mid-Term I | 8","textChars":26,"textLines":1,"bbox":[70,682,500,20]}
+{"kind":"notes","id":"nt/6klzhk","slide":8,"text":""}
+{"kind":"slide","id":"sl/dc1rhy","slide":9,"title":"BUSXTRACK","textShapes":13}
+{"kind":"textbox","id":"sh/pw7ipsnu","slide":9,"text":"BUSXTRACK","textPreview":"BUSXTRACK","textChars":9,"textLines":1,"bbox":[70,32,400,26]}
+{"kind":"textbox","id":"sh/2twzudo3","slide":9,"text":"Current progress and honest project limits","textPreview":"Current progress and honest project limits","textChars":42,"textLines":1,"bbox":[70,64,1140,58]}
+{"kind":"shape","id":"sh/nup0ni5o","slide":9,"bbox":[70,132,1140,1]}
+{"kind":"textbox","id":"sh/czy10nm5","slide":9,"text":"Completed\nSwing screens","textPreview":"Completed | Swing screens","textChars":23,"textLines":2,"bbox":[90,220,250,100]}
+{"kind":"textbox","id":"sh/x07itsnq","slide":9,"text":"Completed\nMySQL schema","textPreview":"Completed | MySQL schema","textChars":22,"textLines":2,"bbox":[515,220,250,100]}
+{"kind":"textbox","id":"sh/axgjyx4f","slide":9,"text":"Completed\nETA prototype","textPreview":"Completed | ETA prototype","textChars":23,"textLines":2,"bbox":[940,220,250,100]}
+{"kind":"textbox","id":"sh/byp0ri5k","slide":9,"text":"Limitations","textPreview":"Limitations","textChars":11,"textLines":1,"bbox":[100,440,250,32]}
+{"kind":"textbox","id":"sh/s3eho361","slide":9,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[105,495,22,34]}
+{"kind":"textbox","id":"sh/d4nih8nm","slide":9,"text":"No physical GPS position","textPreview":"No physical GPS position","textChars":24,"textLines":1,"bbox":[137,495,1018,40]}
+{"kind":"textbox","id":"sh/58zytg72","slide":9,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[105,541,22,34]}
+{"kind":"textbox","id":"sh/47qx0bqh","slide":9,"text":"No maps or external APIs","textPreview":"No maps or external APIs","textChars":24,"textLines":1,"bbox":[137,541,1018,40]}
+{"kind":"textbox","id":"sh/j6hgr6pw","slide":9,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[105,587,22,34]}
+{"kind":"textbox","id":"sh/i58fy18b","slide":9,"text":"Local database for demonstration","textPreview":"Local database for demonstration","textChars":32,"textLines":1,"bbox":[137,587,1018,40]}
+{"kind":"textbox","id":"sh/tcjyxg7y","slide":9,"text":"BusXTrack | Mid-Term I | 9","textPreview":"BusXTrack | Mid-Term I | 9","textChars":26,"textLines":1,"bbox":[70,682,500,20]}
+{"kind":"notes","id":"nt/dc1rhy","slide":9,"text":""}
+{"kind":"slide","id":"sl/ccpo1j","slide":10,"title":"BUSXTRACK","textShapes":12}
+{"kind":"textbox","id":"sh/2dsret03","slide":10,"text":"BUSXTRACK","textPreview":"BUSXTRACK","textChars":9,"textLines":1,"bbox":[70,32,400,26]}
+{"kind":"textbox","id":"sh/pgja98ze","slide":10,"text":"Live demonstration sequence","textPreview":"Live demonstration sequence","textChars":27,"textLines":1,"bbox":[70,64,1140,58]}
+{"kind":"shape","id":"sh/ofatg3it","slide":10,"bbox":[70,132,1140,1]}
+{"kind":"textbox","id":"sh/bilsbyhk","slide":10,"text":"1. Problem and objective","textPreview":"1. Problem and objective","textChars":24,"textLines":1,"bbox":[120,175,1040,40]}
+{"kind":"textbox","id":"sh/qhcbid0z","slide":10,"text":"2. Architecture and UML","textPreview":"2. Architecture and UML","textChars":23,"textLines":1,"bbox":[120,233,1040,40]}
+{"kind":"textbox","id":"sh/dk3ad8zq","slide":10,"text":"3. Run Swing GUI","textPreview":"3. Run Swing GUI","textChars":16,"textLines":1,"bbox":[120,291,1040,40]}
+{"kind":"textbox","id":"sh/cjutk3i5","slide":10,"text":"4. Search BX101 / Market Road","textPreview":"4. Search BX101 / Market Road","textChars":29,"textLines":1,"bbox":[120,349,1040,40]}
+{"kind":"textbox","id":"sh/zmlsfihg","slide":10,"text":"5. Show ETA calculation","textPreview":"5. Show ETA calculation","textChars":23,"textLines":1,"bbox":[120,407,1040,40]}
+{"kind":"textbox","id":"sh/ylcbmdgb","slide":10,"text":"6. Open MySQL schema","textPreview":"6. Open MySQL schema","textChars":20,"textLines":1,"bbox":[120,465,1040,40]}
+{"kind":"textbox","id":"sh/0ni5c7at","slide":10,"text":"7. Explain integration and future scope","textPreview":"7. Explain integration and future scope","textChars":39,"textLines":1,"bbox":[120,523,1040,40]}
+{"kind":"textbox","id":"sh/1or6lcby","slide":10,"text":"The core message","textPreview":"The core message","textChars":16,"textLines":1,"bbox":[150,615,240,28]}
+{"kind":"textbox","id":"sh/elgnaxsn","slide":10,"text":"A transparent, schedule-based college bus information system built with beginner-friendly Java technologies.","textPreview":"A transparent, schedule-based college bus information system built with beginner-friendly Java technologies.","textChars":108,"textLines":1,"bbox":[400,610,700,38]}
+{"kind":"textbox","id":"sh/zmpoj2t8","slide":10,"text":"BusXTrack | Mid-Term I | 10","textPreview":"BusXTrack | Mid-Term I | 10","textChars":27,"textLines":1,"bbox":[70,682,500,20]}
+{"kind":"notes","id":"nt/ccpo1j","slide":10,"text":""}
